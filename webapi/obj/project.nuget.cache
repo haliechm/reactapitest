@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GfqEdDO/RQO3kCczjAskAOfqXZmZPISzxyYOcgb6+1KOeiSR8YAUuaprYjfROYAKSci3eRINP2yB7xeN8WdQ0A==",
+  "dgSpecHash": "aDK4PzIOuPYYFaoy+ZyVFMGIWzFJj6ZkFvnhbhRwQxa3no55poXA1w3M/oQ/cYWwf9EU+wrTgzcnEKcTqutejA==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\reactapitest\\webapi\\webapi.csproj",
+  "projectFilePath": "C:\\Projects\\reactapitest\\webapi\\FullstackStarter.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Developer\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\Developer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,0 +1,2 @@
+C:\Projects\reactapitest\reactapp\obj\Debug\FullstackStarter.ClientApp.esproj.SuggestedBindingRedirects.cache
+C:\Projects\reactapitest\reactapp\obj\Debug\FullstackStarter.ClientApp.esproj.CoreCompileInputs.cache

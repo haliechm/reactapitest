@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\reactapitest\\webapi\\webapi.csproj": {}
+    "C:\\Projects\\reactapitest\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\reactapitest\\webapi\\webapi.csproj": {
+    "C:\\Projects\\reactapitest\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\reactapitest\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Projects\\reactapitest\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Temp\\reactapitest\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Projects\\reactapitest\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\reactapitest\\webapi\\obj\\",
+        "outputPath": "C:\\Projects\\reactapitest\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -28,7 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\reactapitest\\ClassLibrary1\\ClassLibrary1.csproj": {}
+    "C:\\Projects\\reactapitest\\ClassLibrary1\\ClassLibrary1.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\reactapitest\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Projects\\reactapitest\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\reactapitest\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Projects\\reactapitest\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Temp\\reactapitest\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectPath": "C:\\Projects\\reactapitest\\ClassLibrary1\\ClassLibrary1.csproj",
         "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\reactapitest\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Projects\\reactapitest\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -28,6 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

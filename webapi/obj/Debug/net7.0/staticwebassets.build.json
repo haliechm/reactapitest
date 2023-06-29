@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "qWIDttiHurVt0W82xiTX0A7xgYJ9/MKKTQaaiKq7axg=",
-  "Source": "webapi",
-  "BasePath": "_content/webapi",
+  "Hash": "tNoYgd7CAEFZ+1pNi/NM02cs/Y7c4sgSYfb05CbM+5A=",
+  "Source": "FullstackStarter.WebAPI",
+  "BasePath": "_content/FullstackStarter.WebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
