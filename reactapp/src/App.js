@@ -8,10 +8,6 @@ export default class App extends Component {
         this.state = { forecasts: [], loading: true };
     }
 
-    componentDidMount() {
-        this.populateWeatherData();
-    }
-
     static renderForecastsTable(forecasts) {
         return (
             <table className='table table-striped' aria-labelledby="tabelLabel">
@@ -49,11 +45,5 @@ export default class App extends Component {
                 {contents}
             </div>
         );
-    }
-
-    async populateWeatherData() {
-        const response = await fetch('weatherforecast');
-        const data = await response.json();
-        this.setState({ forecasts: data, loading: false });
     }
 }
